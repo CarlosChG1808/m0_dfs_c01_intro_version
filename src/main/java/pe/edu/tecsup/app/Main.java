@@ -19,7 +19,7 @@ public class Main {
             throw new IllegalArgumentException("El número debe ser no negativo");
         }
 
-        int suma = 0; // Cambio desde el repositorio clonado
+        int suma = 0; // Los cambios son los mismos
         for (int i = 1; i <= n; i++) {
                 suma += i;
         }
